@@ -3,6 +3,10 @@
 # Data files
 /data/*
 
+# Environment
+.env
+
+
 ## R
 
 # PDF files
