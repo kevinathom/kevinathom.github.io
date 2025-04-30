@@ -1,11 +1,42 @@
 ---
-title: "kevinathom.github.io"
+title: "Kevin A Thomas"
+tbl-colwidths: [25,75]
 ---
 
-This is a Quarto website.
+Analyst | Instructor | Developer | Improver
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+![](C:/Users/kevin/Dropbox/photos/KAT_2022_headshots/Kevin Thomas_PLC03422_RGB_LoResCrop.jpg){width="20%"}
 
-```{r}
-1 + 1
-```
+# About  
+
++-------------+--------------------------------------------+
+|             |                                            |
++=============+============================================+
+| Name        | Kevin A Thomas                             |
++-------------+--------------------------------------------+
+| Location    | Philadelphia, PA                           |
++-------------+--------------------------------------------+
+| Nationality | United States                              |
++-------------+--------------------------------------------+
+| Location    | Philadelphia, PA                           |
++-------------+--------------------------------------------+
+| Employed    | Business & Data Analysis Librarian \       |
+|             | Lippincott Library of the Wharton School \ |
+|             | University of Pennsylvania \               |
++-------------+--------------------------------------------+
+
+
+# Contact  
+
++----------+-------------------------------------------------------------------------------+
+|          |                                                                               |
++==========+===============================================================================+
+| Website  | [kevinathomas.com](https://www.kevinathomas.com)                              |
++-------------+----------------------------------------------------------------------------+
+| Email    | _________ at kevinathomas.com                                                 |
++----------+-------------------------------------------------------------------------------+
+| ORCiD    | [kevin-a-thomas-analyst](https://www.linkedin.com/in/kevin-a-thomas-analyst/) |
++----------+-------------------------------------------------------------------------------+
+| LinkedIn | [kevin-a-thomas-analyst](https://www.linkedin.com/in/kevin-a-thomas-analyst/) |
++----------+-------------------------------------------------------------------------------+
+
