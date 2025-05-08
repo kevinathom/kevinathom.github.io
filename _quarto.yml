@@ -1,8 +1,5 @@
 project:
   type: website
-  resources:
-    - ".nojekyll"
-    - "img/*"
   output-dir: docs
 
 website:
@@ -11,9 +8,15 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - resume.qmd
 
 format:
   html:
-    theme: superhero
+    theme:
+      - cosmo
+      - brand
     css: styles.css
     toc: true
+
+
+
