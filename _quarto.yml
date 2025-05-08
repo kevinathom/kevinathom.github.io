@@ -9,12 +9,13 @@ website:
       - href: index.qmd
         text: Home
       - resume.qmd
+  cookie-consent: true
 
 format:
   html:
     theme:
-      - cosmo
-      - brand
+      - flatly
+      - darkly
     css: styles.css
     toc: true
 

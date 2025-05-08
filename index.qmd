@@ -5,7 +5,7 @@ tbl-colwidths: [20,80]
 
 Analyst | Instructor | Developer | Improver
 
-![](/img/KevinThomas_PLC03422_RGB_LoResCrop.jpg){width="20%"}
+![](/assets/KevinThomas_PLC03422_RGB_LoResCrop.jpg){width="20%"}
 
 # About  
 +-------------+--------------------------------------------+
