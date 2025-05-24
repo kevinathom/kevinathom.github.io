@@ -3,7 +3,7 @@ title: "Kevin A Thomas"
 tbl-colwidths: [20,80]
 ---
 
-Analyst | Instructor | Developer | Improver
+Analyst | Instructor | Organizer | Improver
 
 ![](/assets/KevinThomas_PLC03422_RGB_LoResCrop.jpg){width="20%"}
 
