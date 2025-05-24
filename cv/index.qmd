@@ -31,13 +31,45 @@ Inheriting an established affiliate marketing program, I enacted compensation, c
 
 Simultaneously, I improved transparency and accountability by designing compliance standards and conducting audits that eliminated more than $36,000 in annual waste.
 
+## Telerx
+
+### Operational Excellence Supervisor
+
+*October 2013 - May 2015*
+
+When a high-profile client asked our free-text coding process to deliver greater reliability, I led a project that improved the average reliability by about 30%-60%. As a bonus, I also developed a statistical sampling plan that would save more than $50,000 in annual quality assurance labor.
+
+Supporting a corporate Lean Six Sigma training initiative, I personally trained more than 140 Lean Six Sigma Yellow Belts, at leadership levels from Supervisor to Director, in less than one year. After that, I automated training for a conservative projected cost reduction of at least $8,000 annually.
+
+### Process Improvement Project Coordinator II
+
+*February 2012 - October 2013*
+
+When leaders were stumped for ways to help their teams work faster, they would come to me. I led observational data collection and mined large CRM datasets then analyzed both qualitative and quantitative process data in order to identify and recommend a variety of untapped efficiency and quality optimization opportunities.
+
+I also helped Telerx achieve EHNAC accreditation by formally documenting the corporate business continuity plan and laying the groundwork for specialized site and functional area plans.
+
 # Publication
 
-
+Thomas, K. A. & Barnhart, M. E., (2021) “Research Support through Programming: Developing an Automation-Assisted Literature Search”, *Ticker: The Academic Business Librarianship Review* 6(2). doi: [https://doi.org/10.3998/ticker.1944](https://doi.org/10.3998/ticker.1944)
 
 # Service
 
+## The Carpentries
 
+### Instructor
+
+*April 2021 - Present*
+
+Led hands-on lessons in shell, Git, SQL, and R.
+
+## American Library Association
+
+### BRASS Webmaster
+
+*July 2020 - Present*
+
+As co-webmaster for the ALA's BRASS section, I maintain Drupal site content, update the Zotero bibliography of member publications, develop new workflows, document procedures, and improve communication processes.
 
 # Technical tools and languages
 
@@ -56,7 +88,7 @@ Simultaneously, I improved transparency and accountability by designing complian
 
 *2016 - 2018*
 
-Offering a broad foundation in statistical techniques with a focus on application, this program concluded with a capstone consulting project. My capstone consisted of a solo project in which I proposed an [analysis plan](/assets/2018-Plan-RockSolid-KAT.pdf) then [analyzed](/assets/2018-Analysis-RockSolid-KAT.pdf) observational data for a wellness program implemented by 3:1 Corporate Health and Productivity Management Solutions.
+The program developed my foundations in a breadth of statistical techniques. My solo capstone consulting project involved [proposing an analysis plan](/assets/2018-Plan-RockSolid-KAT.pdf) for observational data collected by a 3:1 Corporate Health and Productivity Management Solutions wellness program; it concluded in [performing the analysis](/assets/2018-Analysis-RockSolid-KAT.pdf) and offering my findings as insights for the company to use in improving future wellness interventions.
 
 ## Messiah College
 
@@ -64,16 +96,10 @@ Offering a broad foundation in statistical techniques with a focus on applicatio
 
 *2002 - 2005*
 
-Activities and Societies:
+Activities and Societies:  
 - AKD Honors Society
 - C.N. Hostetter Jr. Fellow
 - College Honors Society
 - FTE Fellow
 - Outreach Team Leader
 - Water for the World Team Leader
-
-## Certifications of note
-
-- Bloomberg Market Concepts
-- Analyzing and Visualizing Data with PowerBI
-- Lean Six Sigma Green Belt
