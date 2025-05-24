@@ -74,15 +74,6 @@ Led hands-on lessons in shell, Git, SQL, and R.
 
 As co-webmaster for the ALA's BRASS section, I maintain Drupal site content, update the Zotero bibliography of member publications, develop new workflows, document procedures, and improve communication processes.
 
-# Technical tools and languages
-
-- R
-- Python
-- SQL
-- HTML
-- Excel
-- Power BI
-
 # Education
 
 ## Colorado State University
@@ -106,3 +97,12 @@ Activities and Societies:
 - FTE Fellow
 - Outreach Team Leader
 - Water for the World Team Leader
+
+# Technical tools and languages
+
+- R
+- Python
+- SQL
+- HTML
+- Excel
+- Power BI
