@@ -98,11 +98,16 @@ Activities and Societies:
 - Outreach Team Leader
 - Water for the World Team Leader
 
-# Technical tools and languages
+# Technical
+
+## Top languages
 
 - R
 - Python
 - SQL
 - HTML
+
+## Top tools
+
 - Excel
 - Power BI
