@@ -5,7 +5,7 @@ description: "Scraped and visualized Clif bar protien amounts"
 page-layout: article
 image: /assets/2019-Clif-Protein.png
 aliases: 
-  - 2019-cliff-bar-bar-chart-protien.html
+  - 2019-clif-bar-bar-chart-protien.html
 ---
 
 I eat an unfair number of Clif bars. They're shelf-stable, generally tasty, and good for a protein boost. If you want to maximize your protein density, however, take a look at my Clif Bar Bar Chart.
