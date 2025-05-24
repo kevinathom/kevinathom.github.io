@@ -1,0 +1,79 @@
+---
+title: "CV"
+# Add: PDF download; LinkedIn?
+---
+
+# Professional
+
+## University of Pennsylvania
+
+### Business & Data Analysis Librarian
+
+*October 2018 - Present*
+
+Drawing on my business and educational backgrounds, I lead researchers to data, suggest resources for enhancing statistical analysis plans, organize business data services, build tools, and train learners in data retrieval and analysis tools.
+
+## Famous Smoke Shop
+
+### Project Manager
+
+*March 2018 - October 2018*
+
+Managing the transition from in-house sales-and-inventory management software with summary-level accounting to the NetSuite enterprise resource planning platform.
+
+Not content to complete a theoretical Master's project, I collaborated with the email marketing team and a fellow statistician to apply statistical models and present recommendations for reducing email development times.
+
+### Marketing Analyst
+
+*June 2015 - February 2018*
+
+Inheriting an established affiliate marketing program, I enacted compensation, communication, promotional, and compliance initiatives, increasing the channel's rolling 12-month revenue by $933,000 (35%) with a comparable (32%) increase in profit margin.
+
+Simultaneously, I improved transparency and accountability by designing compliance standards and conducting audits that eliminated more than $36,000 in annual waste.
+
+# Publication
+
+
+
+# Service
+
+
+
+# Technical tools and languages
+
+- R
+- Python
+- SQL
+- HTML
+- Excel
+- Power BI
+
+# Education
+
+## Colorado State University
+
+### Master of Applied Statistics
+
+*2016 - 2018*
+
+Providing a broad background in statistical fundamentals with a focus on application, this program concluded with a capstone consulting project.
+
+## Messiah College
+
+### Bachelor of Arts in Sociology
+
+*2002 - 2005*
+
+Activities and Societies:
+- AKD Honors Society
+- C.N. Hostetter Jr. Fellow
+- College Honors Society
+- FTE Fellow
+- Outreach Team Leader
+- Water for the World Team Leader
+
+## Certifications of note
+
+- Bloomberg Market Concepts
+- Analyzing and Visualizing Data with PowerBI
+- Lean Six Sigma Green Belt

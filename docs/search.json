@@ -12,5 +12,61 @@
     "title": "Resume",
     "section": "",
     "text": "Resume\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "cv/index.html",
+    "href": "cv/index.html",
+    "title": "CV",
+    "section": "",
+    "text": "October 2018 - Present\nDrawing on my business and educational backgrounds, I lead researchers to data, suggest resources for enhancing statistical analysis plans, organize business data services, build tools, and train learners in data retrieval and analysis tools.\n\n\n\n\n\n\nMarch 2018 - October 2018\nManaging the transition from in-house sales-and-inventory management software with summary-level accounting to the NetSuite enterprise resource planning platform.\nNot content to complete a theoretical Master’s project, I collaborated with the email marketing team and a fellow statistician to apply statistical models and present recommendations for reducing email development times.\n\n\n\nJune 2015 - February 2018\nInheriting an established affiliate marketing program, I enacted compensation, communication, promotional, and compliance initiatives, increasing the channel’s rolling 12-month revenue by $933,000 (35%) with a comparable (32%) increase in profit margin.\nSimultaneously, I improved transparency and accountability by designing compliance standards and conducting audits that eliminated more than $36,000 in annual waste."
+  },
+  {
+    "objectID": "cv/index.html#university-of-pennsylvania",
+    "href": "cv/index.html#university-of-pennsylvania",
+    "title": "CV",
+    "section": "",
+    "text": "October 2018 - Present\nDrawing on my business and educational backgrounds, I lead researchers to data, suggest resources for enhancing statistical analysis plans, organize business data services, build tools, and train learners in data retrieval and analysis tools."
+  },
+  {
+    "objectID": "cv/index.html#famous-smoke-shop",
+    "href": "cv/index.html#famous-smoke-shop",
+    "title": "CV",
+    "section": "",
+    "text": "March 2018 - October 2018\nManaging the transition from in-house sales-and-inventory management software with summary-level accounting to the NetSuite enterprise resource planning platform.\nNot content to complete a theoretical Master’s project, I collaborated with the email marketing team and a fellow statistician to apply statistical models and present recommendations for reducing email development times.\n\n\n\nJune 2015 - February 2018\nInheriting an established affiliate marketing program, I enacted compensation, communication, promotional, and compliance initiatives, increasing the channel’s rolling 12-month revenue by $933,000 (35%) with a comparable (32%) increase in profit margin.\nSimultaneously, I improved transparency and accountability by designing compliance standards and conducting audits that eliminated more than $36,000 in annual waste."
+  },
+  {
+    "objectID": "cv/index.html#colorado-state-university",
+    "href": "cv/index.html#colorado-state-university",
+    "title": "CV",
+    "section": "Colorado State University",
+    "text": "Colorado State University\n\nMaster of Applied Statistics\n2016 - 2018\nProviding a broad background in statistical fundamentals with a focus on application, this program concluded with a capstone consulting project."
+  },
+  {
+    "objectID": "cv/index.html#messiah-college",
+    "href": "cv/index.html#messiah-college",
+    "title": "CV",
+    "section": "Messiah College",
+    "text": "Messiah College\n\nBachelor of Arts in Sociology\n2002 - 2005\nActivities and Societies: - AKD Honors Society - C.N. Hostetter Jr. Fellow - College Honors Society - FTE Fellow - Outreach Team Leader - Water for the World Team Leader"
+  },
+  {
+    "objectID": "cv/index.html#certifications-of-note",
+    "href": "cv/index.html#certifications-of-note",
+    "title": "CV",
+    "section": "Certifications of note",
+    "text": "Certifications of note\n\nBloomberg Market Concepts\nAnalyzing and Visualizing Data with PowerBI\nLean Six Sigma Green Belt"
+  },
+  {
+    "objectID": "blog/index.html",
+    "href": "blog/index.html",
+    "title": "Blog",
+    "section": "",
+    "text": "A Clif Bar Bar Chart for Protein\n\n\n\n\n\nScraped and visualized Clif bar protien amounts\n\n\n\n\n\nDec 2, 2019\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "blog/post/2019-cliff-bar-bar-chart-protien.html",
+    "href": "blog/post/2019-cliff-bar-bar-chart-protien.html",
+    "title": "A Clif Bar Bar Chart for Protein",
+    "section": "",
+    "text": "I eat an unfair number of Clif bars. They’re shelf-stable, generally tasty, and good for a protein boost. If you want to maximize your protein density, however, take a look at my Clif Bar Bar Chart.\n\nTo gather the data, I enlisted Python and Beautiful Soup to read protein call-outs (among other details) from the product pages of clifbar.com. Then I pulled the details into R and used the lovely ggplot2 to customize a visualization suiting the subject matter.\nWant to know more about my process? Suprised pumpkin pie is such a slacker? Get in touch!"
   }
 ]

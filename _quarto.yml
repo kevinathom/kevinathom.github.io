@@ -1,14 +1,21 @@
 project:
   type: website
   output-dir: docs
+  resources: 
+    - "/assets"
 
 website:
   title: "Kevin A Thomas"
+  site-url: https://kevinathomas.com
+#  google-analytics: ""
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - resume.qmd
+      - href: cv/index.qmd
+        text: CV
+      - href: blog/index.qmd
+        text: Blog
   cookie-consent: true
 
 format:
