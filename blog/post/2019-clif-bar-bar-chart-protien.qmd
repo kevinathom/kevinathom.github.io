@@ -14,4 +14,4 @@ I eat an unfair number of Clif bars. They're shelf-stable, generally tasty, and 
 
 To gather the data, I enlisted Python and Beautiful Soup to read protein call-outs (among other details) from the product pages of [clifbar.com](https://www.clifbar.com/). Then I pulled the details into R and used the lovely ggplot2 to customize a visualization suiting the subject matter.
 
-Want to know more about my process? Surprised pumpkin pie is such a slacker? [Get in touch!](.../index.html)
+Want to know more about my process? Surprised pumpkin pie is such a slacker? [Get in touch!](/index.html)
