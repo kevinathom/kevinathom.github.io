@@ -9,9 +9,6 @@
 
 ## R
 
-# PDF files
-*.pdf
-
 # History files
 .Rhistory
 .Rapp.history
