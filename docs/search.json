@@ -60,7 +60,7 @@
     "href": "blog/index.html",
     "title": "Blog",
     "section": "",
-    "text": "A Clif Bar Bar Chart for Protein\n\n\n\n\n\nScraped and visualized Clif bar protien amounts\n\n\n\n\n\nDec 2, 2019\n\n\n\n\n\n\nNo matching items"
+    "text": "A Clif Bar Bar Chart for Protein\n\n\n\n\n\nScraped and visualized Clif bar protien amounts\n\n\n\n\n\nDec 2, 2019\n\n\n\n\n\n\n\n\n\n\n\n\nSupporting Data-Driven Research and Visualization\n\n\n\n\n\nPresented strategies for supporting data-drive research and visualization\n\n\n\n\n\nAug 15, 2018\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "blog/post/2019-cliff-bar-bar-chart-protien.html",
@@ -75,5 +75,12 @@
     "title": "A Clif Bar Bar Chart for Protein",
     "section": "",
     "text": "I eat an unfair number of Clif bars. They’re shelf-stable, generally tasty, and good for a protein boost. If you want to maximize your protein density, however, take a look at my Clif Bar Bar Chart.\n\nTo gather the data, I enlisted Python and Beautiful Soup to read protein call-outs (among other details) from the product pages of clifbar.com. Then I pulled the details into R and used the lovely ggplot2 to customize a visualization suiting the subject matter.\nWant to know more about my process? Surprised pumpkin pie is such a slacker? Check out the code and explore for yourself!\nEdit: Years later, I’ve added a link to the project’s code repository."
+  },
+  {
+    "objectID": "blog/post/2018-supporting-data-driven-research-visualization.html",
+    "href": "blog/post/2018-supporting-data-driven-research-visualization.html",
+    "title": "Supporting Data-Driven Research and Visualization",
+    "section": "",
+    "text": "In 2018, I had the privilege of interviewing for the role of Business & Data Analysis Librarian at the Lippincott Library of the Wharton School. The process included presenting strategies for data-driven research support and data visualization.\nI researched expert advice and crafted an interactive dashboard in Power BI based on a real business analysis scenario sourced from an MBA student.\n\n\n\nExample chart from the dashboard\n\n\nMy presentation, in turn, guided my prospective colleagues through my process and findings. You can view the slides and presenter notes.\nMy employment at the Lippincott Library began soon after. I’m humbled that the library team appreciated my perspective and honored to be part of the institution.\nEdit: Fresh new introduction, same great slides."
   }
 ]

@@ -1,0 +1,21 @@
+---
+title: "Supporting Data-Driven Research and Visualization"
+date: 2018-08-15
+description: "Presented strategies for supporting data-drive research and visualization"
+page-layout: article
+image: /assets/2018-KAT-presentation.svg
+aliases: 
+  - 2018-supporting-data-driven-research-visualization.html
+---
+
+In 2018, I had the privilege of interviewing for the role of Business & Data Analysis Librarian at the [Lippincott Library of the Wharton School](https://www.library.upenn.edu/lippincott). The process included presenting strategies for data-driven research support and data visualization.
+
+I researched expert advice and crafted an interactive dashboard in Power BI based on a real business analysis scenario sourced from an MBA student.
+
+![Example chart from the dashboard](/assets/2018-KAT-presentation.svg)
+
+My presentation, in turn, guided my prospective colleagues through my process and findings. [You can view the slides and presenter notes.](https://docs.google.com/presentation/d/1cxCAtvIW_AcnPLs7U3VVf5n2ALuDWcgcrgmPQnAAHdQ/edit?usp=sharing)
+
+My employment at the Lippincott Library began soon after. I'm humbled that the library team appreciated my perspective and honored to be part of the institution.
+
+*Edit: Fresh new introduction, same great slides.*
