@@ -7,7 +7,8 @@ project:
 website:
   title: "Kevin A Thomas"
   site-url: https://kevinathomas.com
-#  google-analytics: ""
+  google-analytics: "G-G1KEMN56Q5"
+  cookie-consent: true
   navbar:
     left:
       - href: index.qmd
@@ -16,7 +17,6 @@ website:
         text: CV
       - href: blog/index.qmd
         text: Blog
-  cookie-consent: true
 
 format:
   html:

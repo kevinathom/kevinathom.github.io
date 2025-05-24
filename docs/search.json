@@ -7,11 +7,25 @@
     "text": "Analyst | Instructor | Organizer | Improver\n\n\nAbout\n\n\n\n\n\n\n\nName\nKevin A Thomas\n\n\nLocation\nPhiladelphia, PA\n\n\nNationality\nUnited States\n\n\nEmployed\nBusiness & Data Analysis Librarian\nLippincott Library of the Wharton School\nUniversity of Pennsylvania\n\n\n\n\n\n\nContact\n\n\n\n\n\n\n\nEmail\nkevinathomas at gmail.com\n\n\nGitHub\nkevinathom\n\n\nLinkedIn\nkevin-a-thomas-analyst\n\n\nORCiD\n0009-0003-8895-5003"
   },
   {
-    "objectID": "resume.html",
-    "href": "resume.html",
-    "title": "Resume",
+    "objectID": "blog/post/2019-clif-bar-bar-chart-protien.html",
+    "href": "blog/post/2019-clif-bar-bar-chart-protien.html",
+    "title": "A Clif Bar Bar Chart for Protein",
     "section": "",
-    "text": "Resume\n\n1 + 1\n\n[1] 2"
+    "text": "I eat an unfair number of Clif bars. They’re shelf-stable, generally tasty, and good for a protein boost. If you want to maximize your protein density, however, take a look at my Clif Bar Bar Chart.\n\nTo gather the data, I enlisted Python and Beautiful Soup to read protein call-outs (among other details) from the product pages of clifbar.com. Then I pulled the details into R and used the lovely ggplot2 to customize a visualization suiting the subject matter.\nWant to know more about my process? Surprised pumpkin pie is such a slacker? Check out the code and explore for yourself!\nEdit: Years later, I’ve added a link to the project’s code repository."
+  },
+  {
+    "objectID": "blog/index.html",
+    "href": "blog/index.html",
+    "title": "Blog",
+    "section": "",
+    "text": "A Clif Bar Bar Chart for Protein\n\n\n\n\n\nScraped and visualized Clif bar protien amounts\n\n\n\n\n\nDec 2, 2019\n\n\n\n\n\n\n\n\n\n\n\n\nSupporting Data-Driven Research and Visualization\n\n\n\n\n\nPresented strategies for supporting data-drive research and visualization\n\n\n\n\n\nAug 15, 2018\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "blog/post/2018-supporting-data-driven-research-visualization.html",
+    "href": "blog/post/2018-supporting-data-driven-research-visualization.html",
+    "title": "Supporting Data-Driven Research and Visualization",
+    "section": "",
+    "text": "In 2018, I had the privilege of interviewing for the role of Business & Data Analysis Librarian at the Lippincott Library of the Wharton School. The process included presenting strategies for data-driven research support and data visualization.\nI researched expert advice and crafted an interactive dashboard in Power BI based on a real business analysis scenario sourced from an MBA student.\n\n\n\nExample chart from the dashboard\n\n\nMy presentation, in turn, guided my prospective colleagues through my process and findings. You can view the slides and presenter notes.\nMy employment at the Lippincott Library began soon after. I’m humbled that the library team appreciated my perspective and honored to be part of the institution.\nEdit: Fresh new introduction, same great slides."
   },
   {
     "objectID": "cv/index.html",
@@ -35,55 +49,6 @@
     "text": "March 2018 - October 2018\nManaging the transition from in-house sales-and-inventory management software with summary-level accounting to the NetSuite enterprise resource planning platform.\nNot content to complete a theoretical Master’s project, I collaborated with the email marketing team and a fellow statistician to apply statistical models and present recommendations for reducing email development times.\n\n\n\nJune 2015 - February 2018\nInheriting an established affiliate marketing program, I enacted compensation, communication, promotional, and compliance initiatives, increasing the channel’s rolling 12-month revenue by $933,000 (35%) with a comparable (32%) increase in profit margin.\nSimultaneously, I improved transparency and accountability by designing compliance standards and conducting audits that eliminated more than $36,000 in annual waste."
   },
   {
-    "objectID": "cv/index.html#colorado-state-university",
-    "href": "cv/index.html#colorado-state-university",
-    "title": "CV",
-    "section": "Colorado State University",
-    "text": "Colorado State University\n\nMaster of Applied Statistics\n2016 - 2018\nThe program developed my foundations in a breadth of statistical techniques. My solo capstone consulting project involved proposing an analysis plan for observational data collected by a 3:1 Corporate Health and Productivity Management Solutions wellness program; it concluded in performing the analysis and offering my findings as insights for the company to use in improving future wellness interventions."
-  },
-  {
-    "objectID": "cv/index.html#messiah-college",
-    "href": "cv/index.html#messiah-college",
-    "title": "CV",
-    "section": "Messiah College",
-    "text": "Messiah College\n\nBachelor of Arts in Sociology\n2002 - 2005\nActivities and Societies:\n- AKD Honors Society - C.N. Hostetter Jr. Fellow - College Honors Society - FTE Fellow - Outreach Team Leader - Water for the World Team Leader"
-  },
-  {
-    "objectID": "cv/index.html#certifications-of-note",
-    "href": "cv/index.html#certifications-of-note",
-    "title": "CV",
-    "section": "Certifications of note",
-    "text": "Certifications of note\n\nBloomberg Market Concepts\nAnalyzing and Visualizing Data with PowerBI\nLean Six Sigma Green Belt"
-  },
-  {
-    "objectID": "blog/index.html",
-    "href": "blog/index.html",
-    "title": "Blog",
-    "section": "",
-    "text": "A Clif Bar Bar Chart for Protein\n\n\n\n\n\nScraped and visualized Clif bar protien amounts\n\n\n\n\n\nDec 2, 2019\n\n\n\n\n\n\n\n\n\n\n\n\nSupporting Data-Driven Research and Visualization\n\n\n\n\n\nPresented strategies for supporting data-drive research and visualization\n\n\n\n\n\nAug 15, 2018\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "blog/post/2019-cliff-bar-bar-chart-protien.html",
-    "href": "blog/post/2019-cliff-bar-bar-chart-protien.html",
-    "title": "A Clif Bar Bar Chart for Protein",
-    "section": "",
-    "text": "I eat an unfair number of Clif bars. They’re shelf-stable, generally tasty, and good for a protein boost. If you want to maximize your protein density, however, take a look at my Clif Bar Bar Chart.\n\nTo gather the data, I enlisted Python and Beautiful Soup to read protein call-outs (among other details) from the product pages of clifbar.com. Then I pulled the details into R and used the lovely ggplot2 to customize a visualization suiting the subject matter.\nWant to know more about my process? Suprised pumpkin pie is such a slacker? Get in touch!"
-  },
-  {
-    "objectID": "blog/post/2019-clif-bar-bar-chart-protien.html",
-    "href": "blog/post/2019-clif-bar-bar-chart-protien.html",
-    "title": "A Clif Bar Bar Chart for Protein",
-    "section": "",
-    "text": "I eat an unfair number of Clif bars. They’re shelf-stable, generally tasty, and good for a protein boost. If you want to maximize your protein density, however, take a look at my Clif Bar Bar Chart.\n\nTo gather the data, I enlisted Python and Beautiful Soup to read protein call-outs (among other details) from the product pages of clifbar.com. Then I pulled the details into R and used the lovely ggplot2 to customize a visualization suiting the subject matter.\nWant to know more about my process? Surprised pumpkin pie is such a slacker? Check out the code and explore for yourself!\nEdit: Years later, I’ve added a link to the project’s code repository."
-  },
-  {
-    "objectID": "blog/post/2018-supporting-data-driven-research-visualization.html",
-    "href": "blog/post/2018-supporting-data-driven-research-visualization.html",
-    "title": "Supporting Data-Driven Research and Visualization",
-    "section": "",
-    "text": "In 2018, I had the privilege of interviewing for the role of Business & Data Analysis Librarian at the Lippincott Library of the Wharton School. The process included presenting strategies for data-driven research support and data visualization.\nI researched expert advice and crafted an interactive dashboard in Power BI based on a real business analysis scenario sourced from an MBA student.\n\n\n\nExample chart from the dashboard\n\n\nMy presentation, in turn, guided my prospective colleagues through my process and findings. You can view the slides and presenter notes.\nMy employment at the Lippincott Library began soon after. I’m humbled that the library team appreciated my perspective and honored to be part of the institution.\nEdit: Fresh new introduction, same great slides."
-  },
-  {
     "objectID": "cv/index.html#telerx",
     "href": "cv/index.html#telerx",
     "title": "CV",
@@ -103,6 +68,20 @@
     "title": "CV",
     "section": "American Library Association",
     "text": "American Library Association\n\nBRASS Webmaster\nJuly 2020 - Present\nAs co-webmaster for the ALA’s BRASS section, I maintain Drupal site content, update the Zotero bibliography of member publications, develop new workflows, document procedures, and improve communication processes."
+  },
+  {
+    "objectID": "cv/index.html#colorado-state-university",
+    "href": "cv/index.html#colorado-state-university",
+    "title": "CV",
+    "section": "Colorado State University",
+    "text": "Colorado State University\n\nMaster of Applied Statistics\n2016 - 2018\nThe program developed my foundations in a breadth of statistical techniques. My solo capstone consulting project involved proposing an analysis plan for observational data collected by a 3:1 Corporate Health and Productivity Management Solutions wellness program; it concluded in performing the analysis and offering my findings as insights for the company to use in improving future wellness interventions."
+  },
+  {
+    "objectID": "cv/index.html#messiah-college",
+    "href": "cv/index.html#messiah-college",
+    "title": "CV",
+    "section": "Messiah College",
+    "text": "Messiah College\n\nBachelor of Arts in Sociology\n2002 - 2005\nActivities and Societies:\n- AKD Honors Society - C.N. Hostetter Jr. Fellow - College Honors Society - FTE Fellow - Outreach Team Leader - Water for the World Team Leader"
   },
   {
     "objectID": "cv/index.html#top-languages",
