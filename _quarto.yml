@@ -3,12 +3,16 @@ project:
   output-dir: docs
   resources: 
     - "/assets"
+    - ".nojekyll"
+    - "CNAME"
 
 website:
   title: "Kevin A Thomas"
   site-url: https://kevinathomas.com
   google-analytics: "G-G1KEMN56Q5"
   cookie-consent: true
+  search: 
+    type: textbox
   navbar:
     left:
       - href: index.qmd
